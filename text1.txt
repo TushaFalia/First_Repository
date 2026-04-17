@@ -4,3 +4,4 @@ Another line added 16 04 26 12.37 AM and going to pull to local repo.
 A new line added to the new_branch2 of the local repo. 
 New line new_branch3 
 This edit is from the branch "New_Branch"
+New Issue solved 
